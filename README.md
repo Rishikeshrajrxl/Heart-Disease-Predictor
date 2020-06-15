@@ -5,4 +5,4 @@ Using Machine Learning
 <p>Based on Tkinter and Machine Learning algorithm.</p>
 <img src="Screenshot (88).png"><br>
 
-<img src="Screenshot (98).png"><br>
+<img src="Screenshot (89).png"><br>
